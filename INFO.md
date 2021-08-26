@@ -9,4 +9,9 @@
 <p><strong>git log:</strong> Показать историю коммитов</p>
 <p><strong>git status:</strong> Показать статус файлов</p>
 <p><strong>git commit:</strong> Записать изменения в репозитории</p>
+<p><strong>git commit -am <em>имя файла</em></strong>:</strong> Записать изменения в репозитории с названием коммита</p>
 <p><strong>git stash:</strong> Скрыть сделанные изменения</p>
+<p><strong>vim <em>имя файла</em>:</strong> Создать файл</p>
+<p><strong>vi <em>имя файла</em>:</strong> Редактировать файл</p>
+<p><strong>git branch:</strong> Показать существующие ветки, создать новую ветку</p>
+<p><strong>git checkout:</strong> Переключиться на другую ветку</p> 
