@@ -14,4 +14,4 @@
 <p><strong>vim <em>имя файла</em>:</strong> Создать файл</p>
 <p><strong>vi <em>имя файла</em>:</strong> Редактировать файл</p>
 <p><strong>git branch:</strong> Показать существующие ветки, создать новую ветку</p>
-<p><strong>git checkout:</strong> Переключиться на другую ветку</p> 
+<p><strong>git checkout/-b:</strong> Переключиться на другую ветку/Создать новую ветку и переключиться на нее</p> 
