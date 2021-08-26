@@ -33,9 +33,9 @@ git status
 git checkout -b 15-4-feature-2
 vi test-file
 git commit -am "changed text"
-k$ git status
-k$ git checkout -b 15-4-feature-3
-k$ vi test-file
+git status
+git checkout -b 15-4-feature-3
+vi test-file
 git commit -am "mistakes corrected" 
 git status
 git push origin 15-4-feature-3
